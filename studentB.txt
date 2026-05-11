@@ -1,3 +1,5 @@
 Name: Teh Jing Jing 
 Course: BAI
 Favourite Movie: Frozen
+Hobby: Swimming
+Dream Job: Software Engineer
